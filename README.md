@@ -10,7 +10,7 @@
 * [Contact Us](#contact-us)
 
 ## Introduction
-SCODEX is a developers community, With us, you will explore an exquisite chance to connect with fellow developers, We offer you the best juncture to analyze, examine and scrutinize some of the best opportunities which will prove to be an exponential increase to the accomplishment and success in your career.
+SCODEX is a developers community,you will explore an exquisite chance to connect with fellow developers, We offer you the best juncture to analyze, examine and scrutinize some of the best opportunities which will prove to be an exponential increase to the accomplishment and success in your career.
 
 ## Contribution
 If you’re interested in the project, feel free to open an issue, create a PR, or just come say hi and tell us more about yourself.
